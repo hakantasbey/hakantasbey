@@ -1,4 +1,5 @@
 - 👋 Hi there, I’m @hakantasbey
+- ⚡ I am a fullStack developer. I love programming, learning and books
 - 🌱 I’m addicted to learning and growing every day
 
 <!---

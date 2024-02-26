@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @hakantasbey
-
+- 🌱 I’m addicted to learning and growing every day
 
 <!---
 - 👀 I’m interested in ...
